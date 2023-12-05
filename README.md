@@ -1,6 +1,8 @@
 # it_marathon
+## Repository Info (GitLab)
+This is a repository cloned from GitLab. The repository contains a project for a social web network. The frontend is developed using Angular. The backend is implemented using a serverless approach with AWS Cloud: AWS Cognito, AWS S3 bucket, AWS API Gateway, AWS Lambda.
 
-
+Link: http://it-marathon-frontend.s3-website.eu-north-1.amazonaws.com/#/main/contact
 
 ## Getting started
 
