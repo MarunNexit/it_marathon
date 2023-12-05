@@ -1,1 +1,4 @@
-<p>chips-component</p>
+<div class="chips-container" [class.editable]="isEditable" [class.active]="isActive">
+  <div *ngFor="let chip of chips.split(','); let i = index" class="chip">{{ chip }}</div>
+</div>
+
